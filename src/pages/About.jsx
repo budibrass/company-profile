@@ -10,7 +10,7 @@ const About = () => {
       <Content
         dataContent={DataContent}
         imgDataContent="/assets/CardContent.png"
-        imgDataContentStyle={{ width: "70%" }}
+        imgDataContentStyle={{ width: "100%" }}
       />
     </>
   );
